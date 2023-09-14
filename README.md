@@ -1,6 +1,6 @@
 # nodejs-express-webproject
 
-nodejs와 express.js 을 이용한 웹 프로젝트
+node.js와 express.js 을 이용한 웹 프로젝트
 
 # Project Type
 
@@ -9,9 +9,7 @@ Toy project
 # Development Environment
 
 ![Static Badge](https://img.shields.io/badge/nodejs-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white&link=https%3A%2F%2Fnodejs.org%2Fko)
-
 ![Static Badge](https://img.shields.io/badge/vscode-%235C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white&link=https%3A%2F%2Fcode.visualstudio.com%2F)
-
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white&link=https%3A%2F%2Fgit-scm.com%2Fdownload%2Flinux)
 
 # How to Run
@@ -20,7 +18,7 @@ Toy project
 node ./index.js
 ```
 
-# Functions
+# What Exactly is Node.js?
 
 ## 이벤트 기반
 
@@ -37,8 +35,6 @@ libuv 라이브러리는 노드의 특성인 이벤트 기반, 논 블로킹 I/O
 
 ![eventloop](https://github.com/namjaegyeong/nodejs-express-webproject/assets/57249939/da8ea7cb-fc71-4567-950f-562eee919f88)
 
-![메인화면](https://github.com/namjaegyeong/nodejs-express-webproject/assets/57249939/5c841c5f-74e4-40a1-a8c1-4c30b0850c3c)
+# Functions
 
-웹 서버 기능
-
-localhost:3000 이동하면 "hello web 출력"
+localhost:3000 url 이동 시 "hello web" 출력
