@@ -8,9 +8,9 @@ Toy project
 
 # Development Environment
 
-node.js 20.6.1
-vscode 1.82.1
-git 2.42.0.windows.2
+* node.js 20.6.1
+* vscode 1.82.1
+* git 2.42.0.windows.2
 
 # How to Run
 
