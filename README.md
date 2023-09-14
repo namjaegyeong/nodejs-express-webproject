@@ -8,9 +8,11 @@ Toy project
 
 # Development Environment
 
-* node.js 20.6.1
-* vscode 1.82.1
-* git 2.42.0.windows.2
+![Static Badge](https://img.shields.io/badge/nodejs-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white&link=https%3A%2F%2Fnodejs.org%2Fko)
+
+![Static Badge](https://img.shields.io/badge/vscode-%235C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white&link=https%3A%2F%2Fcode.visualstudio.com%2F)
+
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white&link=https%3A%2F%2Fgit-scm.com%2Fdownload%2Flinux)
 
 # How to Run
 
